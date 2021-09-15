@@ -1,0 +1,15 @@
+asttokens==2.0.5
+bottle==0.12.19
+certifi==2021.5.30
+charset-normalizer==2.0.4
+colorama==0.4.4
+executing==0.8.0
+greenlet==1.1.1
+icecream==2.1.1
+idna==3.2
+Pygments==2.10.0
+pyTelegramBotAPI==4.0.0
+requests==2.26.0
+six==1.16.0
+SQLAlchemy==1.4.23
+urllib3==1.26.6
